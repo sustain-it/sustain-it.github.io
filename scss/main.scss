@@ -1,16 +1,13 @@
+// Required
 @import "../node_modules/bootstrap/scss/functions";
-
-// override default theme colours
-$primary: #68c59a;
-$secondary: #b3946c;
-// $light:;
-// $dark:;
-
 @import "../node_modules/bootstrap/scss/variables";
 @import "../node_modules/bootstrap/scss/mixins";
 @import "../node_modules/bootstrap/scss/root";
 
-// body{
-//     margin:0;
-//     padding:0px;
-// }
+// Create your own map
+$custom-colors: (
+    "custom-color": #42b47f
+);
+
+// Merge the maps
+$theme-colors: map-merge($theme-colors, $custom-colors);
