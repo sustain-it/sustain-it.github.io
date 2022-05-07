@@ -1,5 +1,13 @@
 // Required
 @import "../node_modules/bootstrap/scss/functions";
+
+// Overrides
+$theme-colors: (
+  "primary": #54b862,
+);
+
+$body-bg: #a9d8c2;
+
 @import "../node_modules/bootstrap/scss/variables";
 @import "../node_modules/bootstrap/scss/mixins";
 @import "../node_modules/bootstrap/scss/root";
