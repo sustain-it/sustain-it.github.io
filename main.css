@@ -1,27 +1,37 @@
 .sustain-it-nav
 {
-    background-color: #9EB276;
+    background-color: #7bb661;
 }
 
 .sustain-it-text
 {
     font-family: 'Podkova', serif;
-    color: #FFF;
-    font-size: 3.2rem;
+    color: #fff;
+    font-size: 2.6rem;
 }
 
 body
 {
-    background-color: #fff;
+    background-color: #e9f3e4;
 }
 
 h1
 {
     font-family: 'Podkova', serif;
+    color: #192016;
 }
 
 /* 
 #A06B54 brown
 #9EB276 green
 #FFFFFF white
+*/
+
+/*
+#7bb661 primary green
+
+#e9f3e4 shade white
+#192016 shade black
+
+https://encycolorpedia.com/7bb661
 */
