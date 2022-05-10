@@ -1,14 +1,21 @@
-body{
-    background-color: #a9d8c2;
+.nav-color
+{
+    background-color: #9EB276;
 }
 
-.custom-bg
+body
 {
-    background-color: #54b862;
+    background-color: #fff;
 }
 
-.custom-text
+.sustain-it-text
 {
-    font-family: 'Satisfy', cursive;
-    color: #d9f7dd;
+    font-family: 'Podkova', serif;
+    color: #FFF;
+    font-size: 3.2rem;
 }
+/* 
+#A06B54 brown
+#9EB276 green
+#FFFFFF white
+*/
