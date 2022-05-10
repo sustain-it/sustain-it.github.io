@@ -1,11 +1,6 @@
-.nav-color
+.sustain-it-nav
 {
     background-color: #9EB276;
-}
-
-body
-{
-    background-color: #fff;
 }
 
 .sustain-it-text
@@ -14,6 +9,17 @@ body
     color: #FFF;
     font-size: 3.2rem;
 }
+
+body
+{
+    background-color: #fff;
+}
+
+h1
+{
+    font-family: 'Podkova', serif;
+}
+
 /* 
 #A06B54 brown
 #9EB276 green
