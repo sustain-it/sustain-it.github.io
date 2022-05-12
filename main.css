@@ -1,37 +1,29 @@
 .sustain-it-nav
 {
-    background-color: #7bb661;
+    background-image: url(assets/paper-brown.jpg);
+    background-color: #A06B54;
 }
 
 .sustain-it-text
 {
     font-family: 'Podkova', serif;
-    color: #fff;
+    color: #FFF;
     font-size: 2.6rem;
 }
 
 body
 {
-    background-color: #e9f3e4;
+    background-color: #FFF;
 }
 
 h1
 {
     font-family: 'Podkova', serif;
-    color: #192016;
+    color: #000;
 }
 
 /* 
 #A06B54 brown
 #9EB276 green
 #FFFFFF white
-*/
-
-/*
-#7bb661 primary green
-
-#e9f3e4 shade white
-#192016 shade black
-
-https://encycolorpedia.com/7bb661
 */
