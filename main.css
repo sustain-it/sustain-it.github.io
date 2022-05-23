@@ -1,7 +1,7 @@
 .sustain-it-nav
 {
-    background-image: url(assets/cardboard.png);
-    /* background-color: #a4b386; */
+    /* background-image: url(assets/cardboard.png); */
+    background-color: #9EB276;
 }
 
 .sustain-it-text
@@ -22,7 +22,8 @@ body
 .mission-statement-text
 {
     font-family: 'Open Sans', sans-serif;
-    font-size: 1.4em;
+    /* font-family: 'Podkova', serif; */
+    font-size: 1.8em;
     /* font-style: italic; */
     color: #132204;
 }
@@ -30,7 +31,7 @@ body
 .header-text
 {
     font-family: 'Podkova', serif;
-    font-weight: 400;
+    font-weight: 800;
     color: #132204;
 }
 
@@ -38,6 +39,7 @@ body
 {
     font-family: 'Open Sans', sans-serif;
     color: #142403;
+    font-size: 1.2em;
 }
 
 .footer-text
