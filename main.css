@@ -1,6 +1,7 @@
 .sustain-it-nav
 {
-    background-image: url(assets/cardboard2.jpg);
+    /* background-image: url(assets/cardboard2.jpg); */
+    background-color: #8d6e50;
 }
 
 .sustain-it-text
@@ -18,7 +19,7 @@ body
     background-repeat: no-repeat;
     background-position: center;
     background-size: 50rem;
-    background-color: #3b9c67;
+    background-color: #1f924f;
     background-attachment: fixed;
     /* background-color: rgb(239, 245, 227); */
 }
