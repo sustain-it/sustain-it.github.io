@@ -1,6 +1,6 @@
 .sustain-it-nav {
-  /* background-image: url(assets/cardboard2.jpg); */
-  background-color: #8d6e50;
+  background: rgb(103,121,9);
+  background: linear-gradient(0deg, rgba(103,121,9,1) 0%, rgba(166,221,134,1) 100%);
 }
 
 .sustain-it-text {
@@ -11,14 +11,7 @@
 }
 
 body {
-  /* background-image: url(assets/paper.jpg); */
-  /* background-image: url(assets/brand/sustain-it-white-transparent.png); */
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: 50rem;
-  background-color: #76df72;
-  background-attachment: fixed;
-  /* background-color: rgb(239, 245, 227); */
+  background-color: #fff;
 }
 
 .mission-statement-text {
@@ -31,35 +24,44 @@ body {
 }
 
 .header-text {
-  font-family: "Podkova", serif;
   font-family: "Open Sans", sans-serif;
   font-weight: 800;
-  color: #000;
+  color: rgb(40, 44, 37);
   font-size: 2.4rem;
+}
+
+.header2-text {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 800;
+  color: rgb(40, 44, 37);
+  font-size: 1.8rem;
 }
 
 .body-text {
   font-family: "Open Sans", sans-serif;
-  color: #000;
-  font-size: 1.5em;
+  color: rgb(40, 44, 37);
+  font-size: 1.4em;
 }
 
 .button {
   font-family: "Open Sans", sans-serif;
-  background-color: #4caf50;
+  background: rgb(103,121,9);
+  background: linear-gradient(0deg, rgba(103,121,9,1) 0%, rgba(166,221,134,1) 100%);
   border: none;
   color: white;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 2rem;
+  font-size: 1.8rem;
   cursor: pointer;
-  border-radius: 8px;
-  transition-duration: 0.2s;
+  border-radius: 12px;
+  transition-duration: 0.4s;
 }
 
 .button:hover {
-  background-color: #28c02d;
+  color: white;
+  background: rgb(141,163,24);
+  background: linear-gradient(0deg, rgba(141,163,24,1) 0%, rgba(177,237,152,1) 100%);
 }
 
 .footer-text {
