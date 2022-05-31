@@ -1,6 +1,7 @@
 .sustain-it-nav {
-  background: rgb(103,121,9);
-  background: linear-gradient(0deg, rgba(103,121,9,1) 0%, rgba(166,221,134,1) 100%);
+  background: #A06B54;
+  
+
 }
 
 .sustain-it-text {
@@ -17,7 +18,7 @@ body {
 .mission-statement-text {
   font-family: "Open Sans", sans-serif;
   /* font-family: 'Podkova', serif; */
-  font-size: 1.4em;
+  font-size: 1.6em;
   /* font-style: italic; */
   color: #000;
   text-align: center;
@@ -66,7 +67,8 @@ body {
 
 .footer-text {
   font-family: "Open Sans", sans-serif;
-  color: #000;
+  color: rgb(40, 44, 37);
+  font-size: 1.2rem;
 }
 
 /* 
