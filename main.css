@@ -1,7 +1,6 @@
 .sustain-it-nav {
-  background: #A06B54;
-  
-
+  /* background: #855d4c; */
+  background: #5da15b;
 }
 
 .sustain-it-text {
@@ -17,7 +16,6 @@ body {
 
 .mission-statement-text {
   font-family: "Open Sans", sans-serif;
-  /* font-family: 'Podkova', serif; */
   font-size: 1.6em;
   /* font-style: italic; */
   color: #000;
@@ -46,8 +44,7 @@ body {
 
 .button {
   font-family: "Open Sans", sans-serif;
-  background: rgb(103,121,9);
-  background: linear-gradient(0deg, rgba(103,121,9,1) 0%, rgba(166,221,134,1) 100%);
+  background: #6eaf47;
   border: none;
   color: white;
   text-align: center;
@@ -61,8 +58,7 @@ body {
 
 .button:hover {
   color: white;
-  background: rgb(141,163,24);
-  background: linear-gradient(0deg, rgba(141,163,24,1) 0%, rgba(177,237,152,1) 100%);
+  background: #90d469;
 }
 
 .footer-text {
@@ -70,12 +66,3 @@ body {
   color: rgb(40, 44, 37);
   font-size: 1.2rem;
 }
-
-/* 
-#A06B54 brown
-#9EB276 green
-#FFFFFF white
-
-font-family: 'Podkova', serif;
-font-family: 'Roboto', sans-serif;
-*/
